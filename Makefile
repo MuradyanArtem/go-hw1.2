@@ -1,6 +1,6 @@
 .PHONY: lint
 lint:
-				gofmt -s -w uniq
+				gofmt -s -w rpn
 
 .PHONY: build
 build:
